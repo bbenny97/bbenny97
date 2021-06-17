@@ -1,3 +1,4 @@
+![github-office-design-13-1200x800](https://user-images.githubusercontent.com/75805363/122441602-52357080-cfbb-11eb-88a6-aab0cf325803.jpeg)
 - 👋 Hi, I’m Bibin and I work here at github with the CELA - TnS Team as a Trust and Safety Specialist 
 - 👀 I’m passionate about making digital spaces inclusive and safe for all
 - 🌱 I’m currently learning Python
