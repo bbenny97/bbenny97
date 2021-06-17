@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bbenny97
-- 👀 I’m interested in Trust and Safety 
-- 🌱 I’m currently learning to write code
+- 👋 Hi, I’m Bibin and I work here at github with the CELA - TnS Team as a Trust and Safety Specialist 
+- 👀 I’m passionate about making digital spaces inclusive and safe for all
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Trust and Safety escalation resolutions 
 - 📫 You can reach me @bbenny97@github.com
 
